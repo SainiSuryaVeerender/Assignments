@@ -1,6 +1,6 @@
 ### occurrence of a given characters in string.
 
-"""name=input("Enter a string : ")
+name=input("Enter a string : ")
 character=input("Enter a characterto be searched : ")
 count=0
 for i in name:
@@ -88,7 +88,7 @@ string1 =input("Enter 1st string : ")
 string2 = input("Enter 2nd string : ")
 print("".join([string1, string2]))
 string3 = " ".join([string1, string2])
-print(string3)"""
+print(string3)
 
 ##### concatenate two strings without using join() method.
 
@@ -102,7 +102,7 @@ print(str3)
 
 ######## remove repeated character from string.
 
-"""s = input("Enter the string: ")
+s = input("Enter the string: ")
 newstr = ''        
 for letter in s:    
    if letter not in newstr:
@@ -277,7 +277,7 @@ str2 = str1
 str3 = str1[:]
 
 print("The Final String : Str2  = ", str2)
-print("The Final String : Str3  = = ", str3)"""
+print("The Final String : Str3  = = ", str3)
 
 
 

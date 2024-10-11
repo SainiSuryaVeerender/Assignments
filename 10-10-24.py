@@ -1,4 +1,4 @@
-'''class Vehicle:
+class Vehicle:
     def __init__(self, brand, year):
         self.brand = brand
         self.year = year
@@ -309,7 +309,7 @@ def main():
         start_media(media)
 
 if __name__ == "__main__":
-    main()'''
+    main()
 
 
 
